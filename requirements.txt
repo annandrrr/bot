@@ -52,11 +52,9 @@ pyparsing==2.4.7
 pyrsistent==0.16.0
 pyTelegramBotAPI==3.7.1
 python-dateutil==2.8.1
-pytz==2020.1
 pywin32==227
 pywinpty==0.5.7
 pyzmq==19.0.1
-realtime-stock==1.0.0
 requests==2.23.0
 scipy==1.4.1
 seaborn==0.10.1
@@ -71,7 +69,3 @@ traitlets==4.3.3
 urllib3==1.25.9
 wcwidth==0.1.9
 webencodings==0.5.1
-yahoo-finance==1.4.0
-yahoofinancials==1.5
-yfinance==0.1.54
-ystockquote==0.2.6.dev0
